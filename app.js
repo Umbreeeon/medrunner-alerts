@@ -1,4 +1,4 @@
-const SERVER = "https://YOUR_SERVER_DOMAIN"; // watcher server origin
+const SERVER = "https://philadelphia-ecology-interventions-seeker.trycloudflare.com/vapidPublicKey"; // watcher server origin
 
 function urlBase64ToUint8Array(base64String) {
   const padding = "=".repeat((4 - (base64String.length % 4)) % 4);
